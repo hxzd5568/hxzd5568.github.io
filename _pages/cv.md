@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.S. in Department of Computer Science, Shanghai Jiao Tong University, 2022-2025
+* B.S. in Department of Cyber Security, Shanghai Jiao Tong University, 2018-2022
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Zichao Xia, Yuting Chen, Pengbo Nie and Zihan Wang. Detecting and Diagnosing Compiler-Introduced Numerical Deviations in Neural Network Models. 
+International Symposium on Software Reliability Engineering (ISSRE), 2024. 
+* Zichao Xia, Fangqi Li, Shilin Wang and Xinlong Pan. Elevating the Defensive Capability of Sequential Recommendation Model by Using Long-Term Knowledge.
+(under review of top AI conference)
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Second Prize in the 14th National College Student Information Security Contest 
+* Outstanding graduate of Shanghai Jiao Tong University
+* Bronze Award of the 13th "Challenge Cup" China University Students' Entrepreneurship Plan Competition
+* The second-class Scholarship of Shanghai Jiao Tong University 2018 & 2022 (TOP 10%)
+* The third-class Scholarship of Shanghai Jiao Tong University 2019 & 2021 (TOP 25%)
+
+Research experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Spring 2024: Internship at Baidu
+  * Duties include: Optimal tiling configuration search technique, Operator Implementation
+  * Supervisor: Professor Zheng
+
+* Fall 2022: Internship at Alibaba
+  * Duties include: Operator fusion for computation graph
+  * Supervisor: Professor Wang
+
+Skills
+======
+* Programming: C++/Python
+* Machine learning:
+  * Learn by Libraries: PyTorch/TensorFlow/Onnx
+  * Use and develop of AI Compiler： TVM/Paddle
+* Testing: Docker/Google test/Pytest/Nsight-system
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Teaching Assistant @ Shanghai Jiao Tong University
+* CS 7341: Algorithmic Analysis, 2024 Spring
+* CS 2309: Problem Solving and Practice, 2023 Fall
