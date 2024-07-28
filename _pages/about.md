@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website of Xia Zichao"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Xia Zichao is a second-year master from [School of IEEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes high performance code generation, testing of Deep learning compilers, machine learning, and adversarial learning.
 
-His is very fortunate to be advised by [Prof. Chen] of DDST Lab from [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University. I was advised by [Prof. Liu](https://XXX.pku.edu.cn/) from [School of Cyber Security](https://infosec.sjtu.edu.cn/), Shanghai Jiao Tong University.
+His is very fortunate to be advised by Prof. Chen of DDST Lab from [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University. He was advised by Prof. Liu from [School of Cyber Security](https://infosec.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
 
 A data-driven personal website
