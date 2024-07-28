@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xia Zichao is a second-year master from [School of IEEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes high performance code generation, testing of Deep learning compilers, machine learning, and adversarial learning.
+Xia Zichao is a second-year master from [School of IEEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes **high performance code generation**, **testing of Deep learning frameworks**, **security of recommendation system**, and **adversarial learning**.
 
 His is very fortunate to be advised by Prof. Chen of DDST Lab from [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University. He was advised by Prof. Liu from [School of Cyber Security](https://infosec.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
