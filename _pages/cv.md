@@ -26,8 +26,8 @@ Awards
 * Second Prize in the 14th National College Student Information Security Contest 
 * Outstanding graduate of Shanghai Jiao Tong University
 * Bronze Award of the 13th "Challenge Cup" China University Students' Entrepreneurship Plan Competition
-* The second-class Scholarship of Shanghai Jiao Tong University 2018 & 2022 (TOP 10%)
-* The third-class Scholarship of Shanghai Jiao Tong University 2019 & 2021 (TOP 25%)
+* Second-class Scholarship of Shanghai Jiao Tong University 2018 & 2022 (TOP 10%)
+* Third-class Scholarship of Shanghai Jiao Tong University 2019 & 2021 (TOP 25%)
 
 Research experience
 ======
