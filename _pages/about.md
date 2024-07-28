@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal website of Xia Zichao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Xia Zichao is a second-year master from [School of IEEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes high performance code generation, testing of Deep learning compilers, machine learning, and adversarial learning.
+
+His is very fortunate to be advised by [Prof. Chen] of DDST Lab from [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University. I was advised by [Prof. Liu](https://XXX.pku.edu.cn/) from [School of Cyber Security](https://infosec.sjtu.edu.cn/), Shanghai Jiao Tong University.
+
 
 A data-driven personal website
 ======
