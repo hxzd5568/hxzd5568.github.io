@@ -9,7 +9,7 @@ redirect_from:
 
 Xia Zichao is a final-year master from Department of Computer Science and Engineering, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes **high performance code generation**, **deep learning system**, **security of recommendation system**, and **adversarial learning**.
 
-His is very fortunate to be advised by Prof. Chen of DDST Lab from [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University. He was advised by Prof. Liu from [School of Cyber Security](https://infosec.sjtu.edu.cn/), Shanghai Jiao Tong University.
+He is very fortunate to be advised by Prof. Chen of DDST Lab from [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University. He was advised by Prof. Liu from [School of Cyber Security](https://infosec.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
 Publications
 ======
