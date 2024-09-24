@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Click here to download Zichao's CV](https://github.com/hxzd5568/hxzd5568.github.io/raw/master/files/CV_Transcript.pdf) 
 {% include base_path %}
 
 Education
