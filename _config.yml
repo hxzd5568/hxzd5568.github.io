@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zichao Xia / Personal Homeage"
 title_separator          : "-"
 name                     : &name "Zichao Xia"
-description              : &description "a third-year master from Shanghai Jiao Tong University"
+description              : &description "a third-year master candidate from Shanghai Jiao Tong University"
 url                      : https://hxzd5568.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hxzd5568/hxzd5568.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : "“Try to learn something about everything and everything about something.”
 
 —Thomas Henry Huxley (1825 - 1895)"  
-  bio              : "A final-year master from SJTU"
+  bio              : "A final-year master candidate from SJTU"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
