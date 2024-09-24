@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Click here to download Zichao's CV](https://github.com/hxzd5568/hxzd5568.github.io/raw/master/files/CV_Transcript.pdf) 
-{% include base_path %}
+
+[Click here to download Zichao's CV](https://github.com/hxzd5568/hxzd5568.github.io/raw/master/files/CV_Zichao_Xia.pdf)  ✅  ✅  ✅ 
 
 Education
 ======
@@ -43,8 +43,8 @@ Skills
 ======
 * Programming: C++/Python
 * Machine learning:
-  * Learn by Libraries: PyTorch/TensorFlow/Onnx
-  * Use and develop of AI Compiler： TVM/Paddle
+  * DL Libraries: PyTorch/TensorFlow/Onnx
+  * AI Compiler： TVM/Paddle
 * Testing: Docker/Google test/Pytest/Nsight-system
 
 Service and leadership
@@ -52,3 +52,5 @@ Service and leadership
 Teaching Assistant @ Shanghai Jiao Tong University
 * CS 7341: Algorithmic Analysis, 2024 Spring
 * CS 2309: Problem Solving and Practice, 2023 Fall
+
+   
